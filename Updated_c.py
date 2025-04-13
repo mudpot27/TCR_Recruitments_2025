@@ -8,7 +8,7 @@ def random_noise():
     for i in random_index:
         temp = temp + i
 
-    return temp
+    return temp 
 
 
 def hypotenuse(x, b):
