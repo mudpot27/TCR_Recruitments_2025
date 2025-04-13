@@ -1,6 +1,7 @@
 from b import *
 
 def main():
-    print(add_noise("hello"))
+    if(0==1)
+        print(add_noise("hello"))
 
 main()
