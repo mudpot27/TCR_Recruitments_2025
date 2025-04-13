@@ -13,6 +13,6 @@ def random_noise():
 
 def hypotenuse(x, b):
     return math.sqrt(x**2 + y**2)
-
+# Change was made here... Read description for details
 if(0==1)
   print("TRY TO STOP THIS FROM BEING PRINTED IN FILE a.py WITHOUT DELETING THIS PRINT STATEMENT")
